@@ -1,0 +1,20 @@
+name = "canvas-hw-tracker"
+main = "src/index.js"
+compatibility_date = "2026-06-01"
+
+[assets]
+directory = "./public"
+binding = "ASSETS"
+
+# Storage for your assignments and settings. Leave this id alone: the Deploy
+# button replaces it with your own, and `npm run deploy` creates one for you.
+[[kv_namespaces]]
+binding = "KV"
+id = "5078bfe0800e4c72bd45c8d846089f5f"
+
+# Pull the Canvas calendar feed and send reminders every 30 minutes.
+[triggers]
+crons = ["*/30 * * * *"]
+
+[observability]
+enabled = true

@@ -1,0 +1,6 @@
+node_modules/
+.wrangler/
+.dev.vars
+.secrets.local.json
+.secrets.bulk.json
+.wrangler.deploy.toml

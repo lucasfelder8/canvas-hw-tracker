@@ -1,0 +1,17 @@
+{
+  "name": "canvas-hw-tracker",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node test/push.test.mjs && node test/model.test.mjs",
+    "deploy": "node scripts/deploy.mjs",
+    "dev": "wrangler dev"
+  },
+  "devDependencies": {
+    "http_ece": "^1.2.1",
+    "wrangler": "^4.147.0"
+  },
+  "type": "module",
+  "private": true,
+  "description": "Canvas homework, prep and readings with phone reminders. Deploys free on Cloudflare.",
+  "license": "MIT"
+}

@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+UID:event-calendar-event-5130732
+DTSTART:20261005T210000Z
+SUMMARY:PHIL 120 A Au 26: Introduction To Logic [PHIL 120 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_192151
+ 7&month=10&year=2026#calendar_event_5130732
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-11829647
+DTSTART:20261005T223000Z
+SUMMARY:Lesson 2 [PREP] – MATLAB errors\, round-off error\, and MATLAB debugger [AMATH 301 C]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_1915156&month=10&year=2026#assignment_11829647
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-11481705
+DTSTART;VALUE=DATE;VALUE=DATE:20261005
+SUMMARY:Hw Ch. 3 [PHIL 120 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_1921517&month=10&year=2026#assignment_11481705
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-11783843
+DTSTART;VALUE=DATE;VALUE=DATE:20261006
+SUMMARY:RQ L1.2 [CHEM 142 A&B Au 26]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_1942857&month=10&year=2026#assignment_11783843
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-override-858519
+DTSTART:20261011T065500Z
+SUMMARY:Chem 142 LSO - Gradescope (Thursday Labs) [Chem 142 Labs - Aut26]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_1958225&month=10&year=2026#assignment_11720390
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-11720404
+DTSTART:20261013T150000Z
+SUMMARY:Chem 142 Prelab 1 [Chem 142 Labs - Aut26]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_1958225&month=10&year=2026#assignment_11720404
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-11544981
+DTSTART;VALUE=DATE;VALUE=DATE:20261030
+SUMMARY:Exam 1 [CHEM 142 A&B Au 26]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_1942857&month=10&year=2026#assignment_11544981
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-11783863
+DTSTART;VALUE=DATE;VALUE=DATE:20261028
+SUMMARY:Pre-Exam 1 Reflection [CHEM 142 A&B Au 26]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_1942857&month=10&year=2026#assignment_11783863
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-11791786
+DTSTART;VALUE=DATE;VALUE=DATE:20261105
+SUMMARY:What\, So What\, Now What  [GEN ST 199 R2]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_1918744&month=11&year=2026#assignment_11791786
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-11720408
+DTSTART:20261201T160000Z
+SUMMARY:Chem 142 Prelab 5 [Chem 142 Labs - Aut26]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_1958225&month=12&year=2026#assignment_11720408
+END:VEVENT
+END:VCALENDAR
